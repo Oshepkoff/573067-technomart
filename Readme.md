@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Анатолий Ощепков](https://up.htmlacademy.ru/htmlcss/19/user/573067).
-* Наставник: [Maxim Lykov] (https://htmlacademy.ru/profile/id529621)
+* Наставник: [Maxim Lykov](https://htmlacademy.ru/profile/id529621)
 .
 
 ---
